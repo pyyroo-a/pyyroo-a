@@ -1,4 +1,4 @@
-# Greetings fellow traveler 🧭
+# Greetings!
 
 I'm a student who loves coding and building things. I enjoy web development and software engineering, and I'm currently diving deep into machine learning — working on prediction apps and other projects to learn as I go.
 
