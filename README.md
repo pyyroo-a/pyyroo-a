@@ -1,4 +1,4 @@
-# Greetings!
+# Greetings Traveller!
 
 I'm a Computer Science student who enjoys building practical projects and learning by doing.  
 I’m particularly interested in **web development** and **software engineering**, and recently I’ve been exploring **machine learning** through small prediction-based projects.
