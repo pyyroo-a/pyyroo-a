@@ -1,31 +1,36 @@
-# Greetings Traveller!
+# Greetings, I'm Ashen 👋
 
-I'm a Computer Science student who enjoys building practical projects and learning by doing.  
-I’m particularly interested in **web development** and **software engineering**, and recently I’ve been exploring **machine learning** through small prediction-based projects.
+Final-year Computer Science student at Qatar University, building toward a career in software engineering and applied ML, ideally somewhere in motorsport data/performance one day.
 
-When I'm not coding, you'll find me at the gym, curating my Spotify playlists 🎵, or gaming while sipping on karak ☕
-
-*P.S I also love Formula 1 🏎️*
-
-Always exploring, always learning.
+I like problems where you can't trust a result until you understand exactly why it's true, that's the thread through most of what I build.
 
 ---
 
-## 🔧 Tech I work with:
-- **Web Development:** HTML, CSS, JavaScript, React (frontend & backend)
-- **Languages:** Bash, Python, Java, C, SQL
-- **Technical Skills:** Git, LaTeX
-- **Areas of Interest:** Software Engineering, Web Development, Data & Statistical Computing
+## What I'm building
 
-## 🌱 Currently learning:
-- Machine Learning fundamentals (models, evaluation, data preprocessing)
-- Data analysis and real-world dataset handling
+**F1 Strategy Lab** — measuring tyre degradation per F1 circuit from real race data to evaluate whether a driver's actual pit strategy was optimal. Built on FastF1, isolating the tyre-age effect from fuel load, track evolution, and traffic.
 
-## 📫 Let's connect:
-[LinkedIn](https://www.linkedin.com/in/vimukthi-ashen/)
+**F1 Fantasy Predictor** — a deployed, continuously updated ML app that predicts optimal F1 Fantasy driver picks each race weekend. Python, scikit-learn, FastAPI, React.
 
-📧 nm2309242@qu.edu.qa
-  
 ---
 
-⭐️ From [Ashen](https://github.com/pyyroo-a)
+## Tech I work with
+
+**Languages:** Python, Java, JavaScript, SQL, C  
+**ML / Data:** scikit-learn, Pandas, NumPy, Matplotlib  
+**Web:** React, FastAPI, Flask, HTML/CSS  
+**Tools:** Git, Bash, LaTeX
+
+---
+
+## Currently learning
+
+LLM APIs and RAG pipelines, expanding past classical ML into applied LLM work.
+
+---
+
+## Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/vimukthi-ashen/) · 📧 vashen27@gmail.com
+
+*F1 fan, always down to talk strategy, data, or both.*
