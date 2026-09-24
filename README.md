@@ -59,7 +59,7 @@
 
 ### 📻 TEAM RADIO
 
-> *"Ashen, if you wanna talk strategy, data, or both, the radio's open. Copy?"*
+> *"Radio check. If you wanna talk strategy, data, or both, the radio's open. Copy?"*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vimukthi-ashen/) [![Email](https://img.shields.io/badge/vashen27%40gmail.com-E10600?style=flat-square&logo=gmail&logoColor=white)](mailto:vashen27@gmail.com)
 
