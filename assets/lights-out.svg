@@ -1,0 +1,61 @@
+<svg width="860" height="220" viewBox="0 0 860 220" xmlns="http://www.w3.org/2000/svg">
+  <!-- 7s loop: a light comes on every 0.7s, hold, all out at 4.2s, then the text wipes in -->
+  <defs>
+    <clipPath id="wipe">
+      <rect x="0" y="140" width="0" height="60">
+        <animate attributeName="width" values="0;0;860;860;0" keyTimes="0;0.6;0.75;0.97;1" dur="7s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#ff4d4d"/>
+      <stop offset="0.6" stop-color="#e10600"/>
+      <stop offset="1" stop-color="#8a0400"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="860" height="220" rx="14" fill="#0d0d12"/>
+
+  <!-- gantry -->
+  <rect x="195" y="22" width="470" height="8" rx="4" fill="#26262e"/>
+
+  <g id="lights">
+    <!-- each pod: two lamps, lit one after another -->
+    <g transform="translate(230 38)">
+      <rect width="60" height="96" rx="10" fill="#1a1a22"/>
+      <circle cx="30" cy="26" r="17" fill="#2a2a33"/><circle cx="30" cy="70" r="17" fill="#2a2a33"/>
+      <circle cx="30" cy="26" r="17" fill="url(#glow)" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.1;0.1;0.6;0.6;1" dur="7s" repeatCount="indefinite"/></circle>
+      <circle cx="30" cy="70" r="17" fill="url(#glow)" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.1;0.1;0.6;0.6;1" dur="7s" repeatCount="indefinite"/></circle>
+    </g>
+    <g transform="translate(310 38)">
+      <rect width="60" height="96" rx="10" fill="#1a1a22"/>
+      <circle cx="30" cy="26" r="17" fill="#2a2a33"/><circle cx="30" cy="70" r="17" fill="#2a2a33"/>
+      <circle cx="30" cy="26" r="17" fill="url(#glow)" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2;0.2;0.6;0.6;1" dur="7s" repeatCount="indefinite"/></circle>
+      <circle cx="30" cy="70" r="17" fill="url(#glow)" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2;0.2;0.6;0.6;1" dur="7s" repeatCount="indefinite"/></circle>
+    </g>
+    <g transform="translate(390 38)">
+      <rect width="60" height="96" rx="10" fill="#1a1a22"/>
+      <circle cx="30" cy="26" r="17" fill="#2a2a33"/><circle cx="30" cy="70" r="17" fill="#2a2a33"/>
+      <circle cx="30" cy="26" r="17" fill="url(#glow)" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.3;0.3;0.6;0.6;1" dur="7s" repeatCount="indefinite"/></circle>
+      <circle cx="30" cy="70" r="17" fill="url(#glow)" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.3;0.3;0.6;0.6;1" dur="7s" repeatCount="indefinite"/></circle>
+    </g>
+    <g transform="translate(470 38)">
+      <rect width="60" height="96" rx="10" fill="#1a1a22"/>
+      <circle cx="30" cy="26" r="17" fill="#2a2a33"/><circle cx="30" cy="70" r="17" fill="#2a2a33"/>
+      <circle cx="30" cy="26" r="17" fill="url(#glow)" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.4;0.4;0.6;0.6;1" dur="7s" repeatCount="indefinite"/></circle>
+      <circle cx="30" cy="70" r="17" fill="url(#glow)" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.4;0.4;0.6;0.6;1" dur="7s" repeatCount="indefinite"/></circle>
+    </g>
+    <g transform="translate(550 38)">
+      <rect width="60" height="96" rx="10" fill="#1a1a22"/>
+      <circle cx="30" cy="26" r="17" fill="#2a2a33"/><circle cx="30" cy="70" r="17" fill="#2a2a33"/>
+      <circle cx="30" cy="26" r="17" fill="url(#glow)" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5;0.5;0.6;0.6;1" dur="7s" repeatCount="indefinite"/></circle>
+      <circle cx="30" cy="70" r="17" fill="url(#glow)" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5;0.5;0.6;0.6;1" dur="7s" repeatCount="indefinite"/></circle>
+    </g>
+  </g>
+
+  <g clip-path="url(#wipe)" font-family="'Segoe UI','Arial Black',Arial,sans-serif" font-weight="900" font-style="italic" text-anchor="middle">
+    <text x="430" y="180" font-size="34" letter-spacing="3" fill="#ffffff">LIGHTS OUT AND AWAY WE GO</text>
+  </g>
+  <rect x="160" y="192" width="540" height="3" fill="#e10600" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.75;0.76;0.97;1" dur="7s" repeatCount="indefinite"/>
+  </rect>
+</svg>
