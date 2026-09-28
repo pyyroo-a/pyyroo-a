@@ -32,11 +32,11 @@
 ### 📡 LIVE TIMING
 
 <!-- LIVE-TIMING:START -->
-**Spanish GP (R14)**
+**Azerbaijan GP (R15)**
 
-🏆 Winner: **Andrea Kimi Antonelli**<br/>
-🔮 PitWall called it: ✅ winner · **2/3** podium<br/>
-📏 Predicted order off by **3.1** places on average
+🏆 Winner: **George Russell**<br/>
+🔮 PitWall called it: ❌ winner (had VER) · **2/3** podium<br/>
+📏 Predicted order off by **3.4** places on average
 
 <sub>auto-updated every Monday by a GitHub Action, straight from [PitWall's saved predictions](https://github.com/pyyroo-a/Formula-1-Fantasy-Predictor/tree/main/data/snapshots)</sub>
 <!-- LIVE-TIMING:END -->
