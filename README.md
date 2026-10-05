@@ -32,10 +32,10 @@
 ### 📡 LIVE TIMING
 
 <!-- LIVE-TIMING:START -->
-**Azerbaijan GP (R15)**
+**Bahrain GP (R16)**
 
-🏆 Winner: **George Russell**<br/>
-🔮 PitWall called it: ❌ winner (had VER) · **2/3** podium<br/>
+🏆 Winner: **Max Verstappen**<br/>
+🔮 PitWall called it: ✅ winner · **2/3** podium<br/>
 📏 Predicted order off by **3.4** places on average
 
 <sub>auto-updated every Monday by a GitHub Action, straight from [PitWall's saved predictions](https://github.com/pyyroo-a/Formula-1-Fantasy-Predictor/tree/main/data/snapshots)</sub>
