@@ -32,11 +32,11 @@
 ### 📡 LIVE TIMING
 
 <!-- LIVE-TIMING:START -->
-**Bahrain GP (R16)**
+**Singapore GP (R17)**
 
 🏆 Winner: **Max Verstappen**<br/>
 🔮 PitWall called it: ✅ winner · **2/3** podium<br/>
-📏 Predicted order off by **3.4** places on average
+📏 Predicted order off by **3.3** places on average
 
 <sub>auto-updated every Monday by a GitHub Action, straight from [PitWall's saved predictions](https://github.com/pyyroo-a/Formula-1-Fantasy-Predictor/tree/main/data/snapshots)</sub>
 <!-- LIVE-TIMING:END -->
