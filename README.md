@@ -32,11 +32,11 @@
 ### 📡 LIVE TIMING
 
 <!-- LIVE-TIMING:START -->
-**Singapore GP (R17)**
+**United States GP (R18)**
 
-🏆 Winner: **Max Verstappen**<br/>
-🔮 PitWall called it: ✅ winner · **2/3** podium<br/>
-📏 Predicted order off by **3.3** places on average
+🏆 Winner: **Andrea Kimi Antonelli**<br/>
+🔮 PitWall called it: ❌ winner (had LEC) · **3/3** podium<br/>
+📏 Predicted order off by **1.9** places on average
 
 <sub>auto-updated every Monday by a GitHub Action, straight from [PitWall's saved predictions](https://github.com/pyyroo-a/Formula-1-Fantasy-Predictor/tree/main/data/snapshots)</sub>
 <!-- LIVE-TIMING:END -->
